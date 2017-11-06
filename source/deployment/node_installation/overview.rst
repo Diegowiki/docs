@@ -18,7 +18,7 @@ Note that you can follow this chapter without reading any other guides and you w
 After installing the nodes and :ref:`verifying your installation <verify_installation>`, you can either :ref:`start using your cloud <operation_guide>` or configure more components:
 
 * :ref:`Authenticaton <authentication>`. (Optional) For integrating OpenNebula with LDAP/AD, or securing it further with other authentication technologies.
-* :ref:`Sunstone <sunstone>`. OpenNebula GUI should working and accessible at this stage, but by reading this guide you will learn about specific enhanced configurations for Sunstone.
+* :ref:`Sunstone <sunstone>`. OpenNebula GUI should be working and accessible at this stage, but by reading this guide you will learn about specific enhanced configurations for Sunstone.
 
 If your cloud is KVM based you should also follow:
 
